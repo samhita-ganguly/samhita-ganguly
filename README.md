@@ -1,6 +1,6 @@
 ## Hi there 👋
 <img src="https://via.placeholder.com/1000x200/ff69b4/ffffff?text=Welcome+to+My+GitHub+Profile!" alt="Pink banner" style="border-radius: 10px;">
-
+<img src="https://dummyimage.com/800x100/ffddea/ffffff&text=Welcome+to+my+GitHub">
 <!--
 **samhita-ganguly/samhita-ganguly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
