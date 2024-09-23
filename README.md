@@ -1,9 +1,6 @@
 ## Hi there 👋
-<!-- Adding a pink banner as a background effect -->
-<div style="background-color: pink; padding: 20px; text-align: center; border-radius: 10px;">
-  <h1>Welcome to My GitHub Profile!</h1>
-  <p style="font-size: 18px;">test</p>
-</div>
+<img src="https://via.placeholder.com/1000x200/ff69b4/ffffff?text=Welcome+to+My+GitHub+Profile!" alt="Pink banner" style="border-radius: 10px;">
+
 <!--
 **samhita-ganguly/samhita-ganguly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
